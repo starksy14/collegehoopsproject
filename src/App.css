@@ -1,0 +1,24 @@
+body {
+  max-width: 100%;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: bolder;
+  position: absolute;
+}
+table {
+  position: absolute;
+  left: 50px;
+  width: calc(100% - 100px);
+  padding: 5px;
+}
+
+td, tr {
+  text-align: center;
+  padding: 8px;
+  font-style: normal;
+  font-family: "Signika", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
