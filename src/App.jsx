@@ -12,54 +12,48 @@ import Mears from './components/Mears';
 import Carnesecca from './components/Carnesecca';
 import Vitale from './components/Vitale';
 import Sutton from './components/Sutton';
+import Maravich from './components/Maravich';
+import Chaney from './components/Chaney';
 
 const App = () => {
 
   return (
     <>
-    <div>
     <h1>Untitled College Basketball Simulation Project</h1>
-    <body>
-      <table>
-      <th><Wooden/></th>
-      <th><Lewis/></th>
-      <th><Calhoun/></th>
-      <th><Olson/></th>
-      <th><Tarkanian/></th>
-      <th><McGuire/></th>
-      <th><Allen/></th>
-      <th><Richardson/></th>
-      <tr></tr>
-      <th><Krzyzewski/></th>
-      <th><Mears/></th>
-      <th><Carnesecca/></th>
-      <th><Vitale/></th>
-      <th><Sutton/></th>
-      <th><McGuire/></th>
-      <th><Calhoun/></th>
-      <th><Olson/></th>
-      <tr></tr>
-      <th><Wooden/></th>
-      <th><Lewis/></th>
-      <th><Calhoun/></th>
-      <th><Olson/></th>
-      <th><Tarkanian/></th>
-      <th><McGuire/></th>
-      <th><Calhoun/></th>
-      <th><Olson/></th>
-      <tr></tr>
-      <th></th>
-      <th><Wooden/></th>
-      <th><Lewis/></th>
-      <th><Calhoun/></th>
-      <th><Olson/></th>
-      <th><Tarkanian/></th>
-      <th><McGuire/></th>
-      <tr></tr>
-      </table>
-      </body>
-      </div>
-
+    <div><h4>kajhdkahfdkashdfkj</h4>
+      <div className="container">
+      <div className="item"><Wooden/></div>
+      <div className="item"><Lewis/></div>
+      <div className="item"><Calhoun/></div>
+      <div className="item"><Olson/></div>
+      <div className="item"><Tarkanian/></div>
+      <div className="item"><McGuire/></div>
+      <div className="item"><Allen/></div>
+      <div className="item"><Richardson/></div>
+      <div className="item"><Krzyzewski/></div>
+      <div className="item"><Mears/></div>
+      <div className="item"><Carnesecca/></div>
+      <div className="item"><Vitale/></div>
+      <div className="item"><Sutton/></div>
+      <div className="item"><Maravich/></div>
+      <div className="item"><Chaney/></div>
+      <div className="item"><Olson/></div>
+      <div className="item"><McGuire/></div>
+      <div className="item"><Allen/></div>
+      <div className="item"><Richardson/></div>
+      <div className="item"><Krzyzewski/></div>
+      <div className="item"><Mears/></div>
+      <div className="item"><Carnesecca/></div>
+      <div className="item"><Sutton/></div>
+      <div className="item"><Wooden/></div>
+      <div className="item"><Lewis/></div>
+      <div className="item"><Olson/></div>
+      <div className="item"><McGuire/></div>
+      <div className="item"><Allen/></div>
+      <div className="item"><Richardson/></div>
+      <div className="item"><Krzyzewski/></div>
+</div>
+</div>
     </>
   )
 }
